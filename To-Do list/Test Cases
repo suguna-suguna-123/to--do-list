@@ -1,0 +1,50 @@
+Test Case 1
+
+Input:
+Choice = 1
+Task = Complete Python Assignment
+
+Expected Output:
+Task added successfully!
+
+-------------------------------------
+
+Test Case 2
+
+Input:
+Choice = 2
+
+Expected Output:
+Displays all available tasks.
+
+-------------------------------------
+
+Test Case 3
+
+Input:
+Choice = 3
+Task Number = 1
+
+Expected Output:
+Selected task removed successfully.
+
+-------------------------------------
+
+Test Case 4
+
+Input:
+Choice = 3
+Task Number = 10
+
+Expected Output:
+Invalid task number.
+
+-------------------------------------
+
+Test Case 5
+
+Input:
+Choice = 5
+
+Expected Output:
+Invalid choice! Please select a valid option.

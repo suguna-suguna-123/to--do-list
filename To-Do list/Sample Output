@@ -1,0 +1,50 @@
+===================================
+         TO-DO LIST
+===================================
+
+1. Add Task
+2. View Tasks
+3. Remove Task
+4. Exit
+
+Enter your choice: 1
+Enter task: Complete Python Assignment
+Task added successfully!
+
+===================================
+
+Enter your choice: 1
+Enter task: Buy Groceries
+Task added successfully!
+
+===================================
+
+Enter your choice: 2
+
+Your Tasks:
+1. Complete Python Assignment
+2. Buy Groceries
+
+===================================
+
+Enter your choice: 3
+
+1. Complete Python Assignment
+2. Buy Groceries
+
+Enter task number to remove: 2
+
+'Buy Groceries' removed successfully!
+
+===================================
+
+Enter your choice: 2
+
+Your Tasks:
+1. Complete Python Assignment
+
+===================================
+
+Enter your choice: 4
+
+Thank you for using To-Do List!
